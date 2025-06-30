@@ -1,17 +1,11 @@
 {
   "resource_pack_name": "MAGISYSTEM",
   "texture_name": "atlas.terrain",
-  "padding": 8,
-  "num_mip_levels": 4,
+  "padding": 0,
+  "num_mip_levels": 0,
   "texture_data": {
-    "thermal_generator_top": {
-      "textures": "textures/blocks/thermal_generator_top"
-    },
-    "thermal_generator_bottom": {
-      "textures": "textures/blocks/thermal_generator_bottom"
-    },
-    "thermal_generator_side": {
-      "textures": "textures/blocks/thermal_generator_side"
+    "thermal_generator": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator"
     },
     "battery_basic": {
       "textures": "textures/blocks/battery_basic"
@@ -39,6 +33,39 @@
     },
     "iron_furnace_side": {
       "textures": "textures/blocks/iron_furnace_side"
+    },
+    "thermal_generator_0": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_0"
+    },
+    "thermal_generator_1": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_1"
+    },
+    "thermal_generator_2": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_2"
+    },
+    "thermal_generator_3": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_3"
+    },
+    "thermal_generator_4": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_4"
+    },
+    "thermal_generator_5": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_5"
+    },
+    "thermal_generator_6": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_6"
+    },
+    "thermal_generator_7": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_7"
+    },
+    "thermal_generator_8": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_8"
+    },
+    "thermal_generator_9": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_9"
+    },
+    "thermal_generator_10": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator_10"
     }
   }
 }

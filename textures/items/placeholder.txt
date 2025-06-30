@@ -1,0 +1,20 @@
+これはアイテムテクスチャフォルダのプレースホルダーファイルです。
+実際のテクスチャファイル（.png）を追加してください：
+
+必要なファイル：
+- pipe.png
+- pipe_input.png
+- pipe_output.png
+- circuit_board.png
+- copper_ingot.png
+- iron_gear.png
+- cable.png
+- cable_input.png
+- cable_output.png
+- thermal_generator.png
+- creative_generator.png
+- battery_basic.png
+- wrench.png
+- iron_furnace.png
+
+各ファイルは16x16ピクセルのPNG画像である必要があります。

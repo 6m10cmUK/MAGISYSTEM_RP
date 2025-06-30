@@ -1,0 +1,19 @@
+# 熱発電機のテクスチャ一覧
+# 各テクスチャは16x16のPNG画像として保存してください
+
+thermal_generator_0.png  - 燃料なし（デフォルト、鉄ブロック風）
+thermal_generator_1.png  - 燃焼10%（プログレスバー1/10）
+thermal_generator_2.png  - 燃焼20%（プログレスバー2/10）
+thermal_generator_3.png  - 燃焼30%（プログレスバー3/10）
+thermal_generator_4.png  - 燃焼40%（プログレスバー4/10）
+thermal_generator_5.png  - 燃焼50%（プログレスバー5/10）
+thermal_generator_6.png  - 燃焼60%（プログレスバー6/10）
+thermal_generator_7.png  - 燃焼70%（プログレスバー7/10）
+thermal_generator_8.png  - 燃焼80%（プログレスバー8/10）
+thermal_generator_9.png  - 燃焼90%（プログレスバー9/10）
+thermal_generator_10.png - 燃焼100%（プログレスバー満タン）
+
+推奨デザイン：
+- ベース: 鉄ブロックのテクスチャ
+- プログレスバー: 下部または側面に横長のバー
+- 色: 緑（満タン）→黄→橙→赤（空）のグラデーション
