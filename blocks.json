@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.50",
+  "magisystem:thermal_generator": {
+    "sound": "stone",
+    "textures": {
+      "up": "thermal_generator_top",
+      "down": "thermal_generator_bottom",
+      "north": "thermal_generator_side",
+      "south": "thermal_generator_side",
+      "east": "thermal_generator_side",
+      "west": "thermal_generator_side"
+    }
+  },
+  "magisystem:battery_basic": {
+    "sound": "stone",
+    "textures": "battery_basic"
+  },
+  "magisystem:cable": {
+    "sound": "stone",
+    "textures": "cable"
+  },
+  "magisystem:cable_input": {
+    "sound": "stone",
+    "textures": "cable_input"
+  },
+  "magisystem:cable_output": {
+    "sound": "stone",
+    "textures": "cable_output"
+  },
+  "magisystem:creative_generator": {
+    "sound": "stone",
+    "textures": "creative_generator"
+  },
+  "magisystem:iron_furnace": {
+    "sound": "stone",
+    "textures": {
+      "up": "iron_furnace_top",
+      "down": "iron_furnace_bottom",
+      "north": "iron_furnace_front",
+      "south": "iron_furnace_side",
+      "east": "iron_furnace_side",
+      "west": "iron_furnace_side"
+    }
+  }
+}

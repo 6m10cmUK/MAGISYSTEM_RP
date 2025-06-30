@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.50",
+  "minecraft:block": {
+    "description": {
+      "identifier": "magisystem:thermal_generator",
+      "register_to_creative_menu": false
+    },
+    "components": {
+      "minecraft:geometry": "geometry.thermal_generator",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "iron_block",
+          "render_method": "opaque"
+        },
+        "top_plate": {
+          "texture": "iron_block",
+          "render_method": "opaque"
+        },
+        "bottom_plate": {
+          "texture": "iron_block",
+          "render_method": "opaque"
+        },
+        "pillar": {
+          "texture": "coal_block",
+          "render_method": "opaque"
+        },
+        "flame": {
+          "texture": "fire_0",
+          "render_method": "blend",
+          "face_dimming": false,
+          "ambient_occlusion": false
+        }
+      }
+    }
+  }
+}

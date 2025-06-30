@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "MAGISYSTEM",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cable": {
+      "textures": "textures/items/cable"
+    },
+    "wrench": {
+      "textures": "textures/items/wrench"
+    },
+    "copper_ingot": {
+      "textures": "textures/items/copper_ingot"
+    },
+    "iron_gear": {
+      "textures": "textures/items/iron_gear"
+    },
+    "circuit_board": {
+      "textures": "textures/items/circuit_board"
+    },
+    "generator": {
+      "textures": "textures/items/generator"
+    },
+    "battery_basic": {
+      "textures": "textures/items/battery_basic"
+    },
+    "battery_advanced": {
+      "textures": "textures/items/battery_advanced"
+    },
+    "battery_ultimate": {
+      "textures": "textures/items/battery_ultimate"
+    },
+    "iron_furnace": {
+      "textures": "textures/items/iron_furnace"
+    }
+  }
+}

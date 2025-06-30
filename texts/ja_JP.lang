@@ -1,0 +1,19 @@
+## MAGISYSTEM 日本語翻訳
+
+itemGroup.name.magisystem=MAGISYSTEM
+tile.magisystem:cable.name=エネルギーケーブル
+tile.magisystem:generator.name=発電機
+tile.magisystem:battery_basic.name=基本バッテリー
+tile.magisystem:battery_advanced.name=発展バッテリー
+tile.magisystem:battery_ultimate.name=究極バッテリー
+tile.magisystem:iron_furnace.name=鉄のかまど
+item.magisystem:cable.name=エネルギーケーブル
+item.magisystem:wrench.name=レンチ
+item.magisystem:copper_ingot.name=銅インゴット
+item.magisystem:iron_gear.name=鉄の歯車
+item.magisystem:circuit_board.name=回路基板
+item.magisystem:generator.name=発電機
+item.magisystem:battery_basic.name=基本バッテリー
+item.magisystem:battery_advanced.name=発展バッテリー
+item.magisystem:battery_ultimate.name=究極バッテリー
+item.magisystem:iron_furnace.name=鉄のかまど

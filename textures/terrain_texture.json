@@ -1,0 +1,44 @@
+{
+  "resource_pack_name": "MAGISYSTEM",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "thermal_generator_top": {
+      "textures": "textures/blocks/thermal_generator_top"
+    },
+    "thermal_generator_bottom": {
+      "textures": "textures/blocks/thermal_generator_bottom"
+    },
+    "thermal_generator_side": {
+      "textures": "textures/blocks/thermal_generator_side"
+    },
+    "battery_basic": {
+      "textures": "textures/blocks/battery_basic"
+    },
+    "cable": {
+      "textures": "textures/blocks/cable"
+    },
+    "cable_input": {
+      "textures": "textures/blocks/cable_input"
+    },
+    "cable_output": {
+      "textures": "textures/blocks/cable_output"
+    },
+    "creative_generator": {
+      "textures": "textures/blocks/creative_generator"
+    },
+    "iron_furnace_top": {
+      "textures": "textures/blocks/iron_furnace_top"
+    },
+    "iron_furnace_bottom": {
+      "textures": "textures/blocks/iron_furnace_bottom"
+    },
+    "iron_furnace_front": {
+      "textures": "textures/blocks/iron_furnace_front"
+    },
+    "iron_furnace_side": {
+      "textures": "textures/blocks/iron_furnace_side"
+    }
+  }
+}
