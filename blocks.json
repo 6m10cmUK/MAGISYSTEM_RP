@@ -1,14 +1,11 @@
 {
-  "format_version": "1.21.50",
+  "format_version": "1.21.40",
   "magisystem:thermal_generator": {
     "sound": "stone",
     "textures": {
       "up": "thermal_generator_top",
       "down": "thermal_generator_bottom",
-      "north": "thermal_generator_side",
-      "south": "thermal_generator_side",
-      "east": "thermal_generator_side",
-      "west": "thermal_generator_side"
+      "side": "thermal_generator_side"
     }
   },
   "magisystem:battery_basic": {

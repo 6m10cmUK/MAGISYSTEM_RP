@@ -5,6 +5,21 @@
     "cable": {
       "textures": "textures/items/cable"
     },
+    "cable_input": {
+      "textures": "textures/items/cable_input"
+    },
+    "cable_output": {
+      "textures": "textures/items/cable_output"
+    },
+    "pipe": {
+      "textures": "textures/items/pipe"
+    },
+    "pipe_input": {
+      "textures": "textures/items/pipe_input"
+    },
+    "pipe_output": {
+      "textures": "textures/items/pipe_output"
+    },
     "wrench": {
       "textures": "textures/items/wrench"
     },
@@ -19,6 +34,12 @@
     },
     "generator": {
       "textures": "textures/items/generator"
+    },
+    "thermal_generator": {
+      "textures": "textures/items/thermal_generator"
+    },
+    "creative_generator": {
+      "textures": "textures/items/creative_generator"
     },
     "battery_basic": {
       "textures": "textures/items/battery_basic"
