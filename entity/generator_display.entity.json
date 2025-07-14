@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.59",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "magisystem:generator_display",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/misc/missing_texture"
+            },
+            "geometry": {
+                "default": "geometry.item_display"
+            },
+            "scripts": {
+                "pre_animation": [
+                    "variable.item_rotation = query.life_time * 45;"
+                ],
+                "animate": ["item_display_controller"]
+            },
+            "animations": {
+                "rotation": "animation.item_display.rotation",
+                "static": "animation.item_display.static",
+                "item_display_controller": "controller.animation.item_display"
+            },
+            "render_controllers": ["controller.render.item_display_with_item"]
+        }
+    }
+}

@@ -1,13 +1,33 @@
 ## MAGISYSTEM 日本語翻訳
 
 itemGroup.name.magisystem=MAGISYSTEM
+
+# ブロック名
 tile.magisystem:cable.name=エネルギーケーブル
+tile.magisystem:cable_input.name=エネルギーケーブル（入力）
+tile.magisystem:cable_output.name=エネルギーケーブル（出力）
+tile.magisystem:pipe.name=アイテムパイプ
+tile.magisystem:pipe_input.name=アイテムパイプ（入力）
+tile.magisystem:pipe_output.name=アイテムパイプ（出力）
+tile.magisystem:thermal_generator.name=熱発電機
 tile.magisystem:generator.name=発電機
 tile.magisystem:battery_basic.name=基本バッテリー
 tile.magisystem:battery_advanced.name=発展バッテリー
 tile.magisystem:battery_ultimate.name=究極バッテリー
+tile.magisystem:electric_furnace.name=電気炉
 tile.magisystem:iron_furnace.name=鉄のかまど
+tile.magisystem:magic_circle_basic.name=魔法陣（基本）
+tile.magisystem:magic_circle_fire.name=魔法陣（火）
+tile.magisystem:magic_circle_water.name=魔法陣（水）
+tile.magisystem:magic_circle_air.name=魔法陣（空気）
+tile.magisystem:magic_circle_earth.name=魔法陣（大地）
+tile.magisystem:magic_circle_start.name=魔法陣（始動）
+
+# アイテム名
 item.magisystem:cable.name=エネルギーケーブル
+item.magisystem:pipe.name=アイテムパイプ
+item.magisystem:thermal_generator.name=熱発電機
+item.magisystem:electric_furnace.name=電気炉
 item.magisystem:wrench.name=レンチ
 item.magisystem:copper_ingot.name=銅インゴット
 item.magisystem:iron_gear.name=鉄の歯車

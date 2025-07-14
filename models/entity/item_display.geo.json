@@ -1,0 +1,56 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.item_display",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 1,
+                "visible_bounds_height": 1,
+                "visible_bounds_offset": [0, 0, 0]
+            },
+            "bones": [
+                {
+                    "name": "body",
+                    "pivot": [0, 0, 0],
+                    "cubes": [
+                        {
+                            "origin": [-4, 0, -4],
+                            "size": [8, 8, 8],
+                            "uv": [0, 0]
+                        }
+                    ]
+                },
+                {
+                    "name": "item_display",
+                    "parent": "body",
+                    "pivot": [0, 8, 0],
+                    "cubes": [
+                        {
+                            "origin": [-8, 0, -1],
+                            "size": [16, 16, 2],
+                            "uv": {
+                                "north": {"uv": [0, 0], "uv_size": [16, 16]},
+                                "south": {"uv": [0, 0], "uv_size": [16, 16]}
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "rightArm",
+                    "parent": "body",
+                    "pivot": [0, 0, 0]
+                },
+                {
+                    "name": "rightItem",
+                    "parent": "rightArm",
+                    "pivot": [0, 0, 0],
+                    "locators": {
+                        "lead_hold": [0, 0, 0]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -66,6 +66,27 @@
     },
     "thermal_generator_10": {
       "textures": "textures/blocks/thermal_generator/thermal_generator_10"
+    },
+    "stone": {
+      "textures": "textures/blocks/stone"
+    },
+    "magi_circle_basic": {
+      "textures": "textures/blocks/magic_circle/magi_circle_basic"
+    },
+    "magi_circle_fire": {
+      "textures": "textures/blocks/magic_circle/magi_circle_fire"
+    },
+    "magi_circle_water": {
+      "textures": "textures/blocks/magic_circle/magi_circle_water"
+    },
+    "magi_circle_air": {
+      "textures": "textures/blocks/magic_circle/magi_circle_air"
+    },
+    "magi_circle_earth": {
+      "textures": "textures/blocks/magic_circle/magi_circle_earth"
+    },
+    "magi_circle_start": {
+      "textures": "textures/blocks/magic_circle/magi_circle_start"
     }
   }
 }

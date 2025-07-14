@@ -1,0 +1,33 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.item_display.rotation": {
+            "loop": false,
+            "animation_length": 0.0,
+            "bones": {
+                "body": {
+                    "rotation": [0, 0, 0]
+                },
+                "rightItem": {
+                    "rotation": [0, 0, 0],
+                    "position": [0, 0, 0],
+                    "scale": 1
+                }
+            }
+        },
+        "animation.item_display.static": {
+            "loop": true,
+            "animation_length": 1.0,
+            "bones": {
+                "body": {
+                    "rotation": [0, 180, 0]
+                },
+                "rightItem": {
+                    "rotation": [0, 0, 0],
+                    "position": [0, 4, 5],
+                    "scale": 1.5
+                }
+            }
+        }
+    }
+}

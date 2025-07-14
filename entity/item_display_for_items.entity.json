@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.59",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "magisystem:item_display_for_items",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/blocks/glass"
+            },
+            "geometry": {
+                "default": "geometry.item_display_for_items"
+            },
+            "scripts": {
+                "animate": ["item_display_controller"]
+            },
+            "animations": {
+                "static": "animation.item_display_for_items.static",
+                "item_display_controller": "controller.animation.item_display_for_items"
+            },
+            "render_controllers": ["controller.render.item_display_with_item"]
+        }
+    }
+}

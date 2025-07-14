@@ -2,56 +2,56 @@
   "resource_pack_name": "MAGISYSTEM",
   "texture_name": "atlas.items",
   "texture_data": {
+    "thermal_generator": {
+      "textures": "textures/blocks/thermal_generator/thermal_generator"
+    },
+    "electric_furnace": {
+      "textures": "textures/blocks/electric_furnace"
+    },
     "cable": {
-      "textures": "textures/items/cable"
+      "textures": "textures/blocks/cable"
     },
     "cable_input": {
-      "textures": "textures/items/cable_input"
+      "textures": "textures/blocks/cable_input"
     },
     "cable_output": {
-      "textures": "textures/items/cable_output"
+      "textures": "textures/blocks/cable_output"
     },
     "pipe": {
-      "textures": "textures/items/pipe"
+      "textures": "textures/blocks/pipe"
     },
     "pipe_input": {
-      "textures": "textures/items/pipe_input"
+      "textures": "textures/blocks/pipe_input"
     },
     "pipe_output": {
-      "textures": "textures/items/pipe_output"
+      "textures": "textures/blocks/pipe_output"
+    },
+    "battery_small": {
+      "textures": "textures/blocks/battery_small"
+    },
+    "battery_medium": {
+      "textures": "textures/blocks/battery_medium"
+    },
+    "battery_large": {
+      "textures": "textures/blocks/battery_large"
+    },
+    "battery_creative": {
+      "textures": "textures/blocks/battery_creative"
+    },
+    "creative_generator": {
+      "textures": "textures/blocks/creative_generator"
+    },
+    "iron_furnace": {
+      "textures": "textures/blocks/iron_furnace"
+    },
+    "mf_reader": {
+      "textures": "textures/items/mf_reader"
     },
     "wrench": {
       "textures": "textures/items/wrench"
     },
-    "copper_ingot": {
-      "textures": "textures/items/copper_ingot"
-    },
-    "iron_gear": {
-      "textures": "textures/items/iron_gear"
-    },
-    "circuit_board": {
-      "textures": "textures/items/circuit_board"
-    },
-    "generator": {
-      "textures": "textures/items/generator"
-    },
-    "thermal_generator": {
-      "textures": "textures/items/thermal_generator"
-    },
-    "creative_generator": {
-      "textures": "textures/items/creative_generator"
-    },
-    "battery_basic": {
-      "textures": "textures/items/battery_basic"
-    },
-    "battery_advanced": {
-      "textures": "textures/items/battery_advanced"
-    },
-    "battery_ultimate": {
-      "textures": "textures/items/battery_ultimate"
-    },
-    "iron_furnace": {
-      "textures": "textures/items/iron_furnace"
+    "chalk": {
+      "textures": "textures/items/chalk"
     }
   }
 }

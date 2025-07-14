@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.59",
+  "minecraft:block": {
+    "description": {
+      "identifier": "magisystem:magic_circle_start"
+    },
+    "components": {
+      "minecraft:geometry": {
+        "identifier": "geometry.magic_circle"
+      }
+    }
+  }
+}

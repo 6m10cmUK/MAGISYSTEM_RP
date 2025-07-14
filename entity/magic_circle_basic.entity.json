@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "magisystem:magic_circle_basic",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/items/magi_circle_basic"
+      },
+      "geometry": {
+        "default": "geometry.magic_circle_basic"
+      },
+      "spawn_egg": {
+        "base_color": "#800080",
+        "overlay_color": "#FFD700"
+      },
+      "render_controllers": [ "controller.render.magic_circle_basic" ]
+    }
+  }
+}

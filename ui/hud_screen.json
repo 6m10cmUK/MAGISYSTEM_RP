@@ -1,0 +1,25 @@
+{
+  "hud_actionbar_text": {
+    "type": "image",
+    "size": [ "100%c + 12px", "100%c + 4px" ],
+    "offset": [ 0, 2 ],
+    "anchor_from": "top_middle",
+    "anchor_to": "top_middle",
+    "texture": "textures/ui/hud_tip_text_background",
+    "nine_slice_box": true,
+    "controls": [
+      {
+        "actionbar_message": {
+          "type": "label",
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "color": [ 1.0, 1.0, 1.0 ],
+          "layer": 1,
+          "text": "$actionbar_text",
+          "localize": false,
+          "shadow": true
+        }
+      }
+    ]
+  }
+}
